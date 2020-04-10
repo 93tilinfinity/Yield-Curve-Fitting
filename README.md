@@ -5,7 +5,7 @@ Key inferential methods used:
 
 B-splines, Maximum Likelihood Estimation, Bootstrapped Confidence Intervals
 
-Medium writeup:
+Medium writeup: https://towardsdatascience.com/yield-curve-building-in-python-8d7974a6e7e3
 
 
 
